@@ -1,0 +1,12 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+app.py
+
+*.avi
+*.mp4
+*.csv
+
+!requirements.txt
